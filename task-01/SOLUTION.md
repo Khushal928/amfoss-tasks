@@ -1,10 +1,9 @@
 First of all, I have cloned 2 repositories using git clone https.......
 
 
-cd TheCommandLineCup       
+cd TheCommandLineCup 
 
-
-ls                         here, 1st perfect number is 6 so x=6 and y=5
+ls       <br>   here, 1st perfect number is 6 so x=6 and y=5 <br>
 
 
 cd 06          
