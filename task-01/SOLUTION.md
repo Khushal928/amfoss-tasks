@@ -31,5 +31,5 @@ git push origin main<br>
 above three lines to push work into repo
 
 
-![congrats image](/amfoss-tasks/task-01/congrats.png)
+![congrats image](/task-01/codes/congrats.png)
 
