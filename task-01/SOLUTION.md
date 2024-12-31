@@ -30,3 +30,6 @@ git commit -m 'message'<br>
 git push origin main<br>
 above three lines to push work into repo
 
+
+![congrats image](/home/khushal/Pictures/Screenshots/congrats.png)
+
