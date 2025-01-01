@@ -1,4 +1,4 @@
-  GNU nano 7.2                             README.MD                                       
+                             README.MD                                       
 in this task, we have to create an image with an arithemetic expression in it.
 Then we have to write a python code which scan the picture and return the
 evaluated value of expression in the picture
