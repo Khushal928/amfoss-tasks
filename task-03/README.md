@@ -1,9 +1,52 @@
-# Getting started:
+I have started this task by linking javascript and css files with html file
+<br>
+```html
+<script src="index.js"></script>
+```
+<br>
+at the end of body to link index.js with my html file
+<br>
+```html
+<link rel="stylesheet" href="styles.css">
+```
+<br>
+to link styles.css with html file
 
-<ol>
-  <li>Clone this repository into your local machine</li>
-  <li>Open the folder in an editor of your choice (Recommended - VS Code)</li>
-  <li>Download the Live Server extension in VS Code to instantly see your changes made to the website without refreshing the tab</li>
-</ol>
 
-<p>You can begin this task by referring to the READMEs given in the folders named Part-1,2,3,4</p>
+I have given an id to each button so that when it is clicked, function _funct_ is triggered
+<br>
+'''javascript
+document.getElementById(ID).onclick = function () { funct(LETTER THAT IS CLICKED); }
+```
+<br>
+when that function is triggered, a unique sound stored in sounds folder is played
+<br>
+```javascript
+if (inputbutton ===  LETTER THAT IS CLICKED) {
+        var sound = new Audio('sounds/crash.mp3');
+        sound.play();
+    }
+```
+<br>
+
+
+A class is also given for each button so each button can be decorated <br>
+```css
+.j {
+  background-color: chocolate;
+}
+```
+<br>
+Whole part is aligned in center cause body is center-aligned and heading drum kit is highlighted 
+<br>
+
+
+finally whole font in webpage is changed 
+<br>
+```html
+  <link href="https://fonts.googleapis.com/css2?family=Playwrite+AU+SA&display=swap" rel="stylesheet">
+```
+
+
+This task is a good introduction with web devolopment for me.its quite fun to create this webpage
+
