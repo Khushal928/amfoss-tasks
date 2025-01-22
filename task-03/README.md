@@ -6,6 +6,7 @@ at the end of body to link index.js with my html file
 ```html
 <link rel="stylesheet" href="styles.css">
 ```
+<br>
 to link styles.css with html file, I have given an id to each button so that when it is clicked, function _funct_ is triggered
 
 ```javascript
@@ -22,13 +23,12 @@ if (inputbutton ===  LETTER THAT IS CLICKED) {
 <br>
 
 
-A class is also given for each button so each button can be decorated <br>
+A class is also given for each button so each button can be decorated 
 ```css
 .j {
   background-color: chocolate;
 }
 ```
-<br>
 Whole part is aligned in center cause body is center-aligned and heading drum kit is highlighted 
 <br>
 
