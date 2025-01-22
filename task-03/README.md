@@ -13,6 +13,7 @@ to link styles.css with html file, I have given an id to each button so that whe
 '''javascript
 document.getElementById(ID).onclick = function () { funct(LETTER THAT IS CLICKED); }
 ```
+<br>
 when that function is triggered, a unique sound stored in sounds folder is played
 ```javascript
 if (inputbutton ===  LETTER THAT IS CLICKED) {
