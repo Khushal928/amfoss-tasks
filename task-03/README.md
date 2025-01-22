@@ -1,9 +1,7 @@
 I have started this task by linking javascript and css files with html file
-<br>
 ```html
 <script src="index.js"></script>
 ```
-<br>
 at the end of body to link index.js with my html file
 <br>
 ```html
