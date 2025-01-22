@@ -15,6 +15,7 @@ document.getElementById(ID).onclick = function () { funct(LETTER THAT IS CLICKED
 ```
 <br>
 when that function is triggered, a unique sound stored in sounds folder is played
+<br>
 ```javascript
 if (inputbutton ===  LETTER THAT IS CLICKED) {
         var sound = new Audio('sounds/crash.mp3');
