@@ -3,7 +3,7 @@ First of all, I have cloned 2 repositories using git clone https.......
 ```
 cd TheCommandLineCup
 ```
-here, 1st perfect number is 6 so x=6 and y=5 <br>
+here, 1st perfect number is 6 so x=6 and y=5 
 ```
 cd 06<br>
 cat Spell_05.txt
@@ -24,8 +24,10 @@ git branch
  to find all the branches that local machine is aware of<br>
 git branch -r to find all the branches including remote branches 
 ```
-git fetch origin <remotebranch>```
+git fetch origin <remotebranch>
+```
 to include those branches in local repository
+
 ```
 git checkout <specified branch> 
 ```
