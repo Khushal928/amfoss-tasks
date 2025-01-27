@@ -6,7 +6,7 @@ at the end of body to link index.js with my html file
 ```html
 <link rel="stylesheet" href="styles.css">
 ```
-to link styles.css with html file, I have given an id to each button so that when it is clicked, function _funct_ is triggered
+to link styles.css with html file, I have given an id to each button so that when it is clicked,using onclick, function _funct_ is triggered with parameter as the letter
 <br>
 ```javascript
 document.getElementById(ID).onclick = function () { funct(LETTER THAT IS CLICKED); }
